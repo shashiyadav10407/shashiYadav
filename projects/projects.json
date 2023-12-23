@@ -1,0 +1,38 @@
+[
+
+  {
+    "name": "E-learning",
+     "desc": "E-learning is electronic learning website landing page built using , HTML CSS and Boostrap.</p>",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": " https://shashiyadav10407.github.io/e--learning/"
+    }
+  },
+  
+  {
+    "name": "Notes Manager",
+    "desc": "Using Notes Manager you can view and perform administrative functions on Note Templates and Notes, and create and maintain Note Formats.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+             "view": "https://reactjsprojects.herokuapp.com/",
+            "code": "https://shashiyadav10407.github.io/Note-Manager/"
+    }
+  },
+
+  {
+    "name": "Pokedex React app",
+    "desc": "The Pokedex React app visually presents Pokemon details and summarizes the overall results for each hand in the Pokegame.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+  
+  
+]
